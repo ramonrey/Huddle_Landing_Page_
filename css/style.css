@@ -121,6 +121,14 @@ button a {
         margin: 50px 0;
     }
 
+    .main img {
+        padding: 10px;
+    }
+
+    p {
+        padding: 10px;
+    }
+
     .main > div:first-child {
         flex: 1;
         margin-right: 0;
