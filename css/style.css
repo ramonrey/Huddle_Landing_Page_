@@ -36,7 +36,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     /* font-size: 1.4em; */
-    background: url('./images/bg-desktop.svg') no-repeat center/cover;
+    background: url('../images/bg-desktop.svg') no-repeat center/cover;
     background-color: var(--violet);
     min-height: 100vh;
     display: flex;
@@ -112,7 +112,7 @@ button a {
 /* Media Queries */
 @media (max-width: 768px) {
     body {
-        background: url('./images/bg-mobile.svg') no-repeat center/cover;
+        background: url('../images/bg-mobile.svg') no-repeat center/cover;
         background-color: var(--violet);
     }
 
