@@ -53,7 +53,7 @@ body {
 
 .main {
     display: flex;
-    margin: 150px 0;
+    margin: 80px 0;
 }
 
 .main > div:first-child {
